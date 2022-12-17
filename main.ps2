@@ -1,0 +1,1 @@
+Expand-Archive -Path test.zip C:/Users/%USER%/Downloads
