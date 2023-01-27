@@ -1,0 +1,22 @@
+{
+  "antialiasingMode": "cleartype",
+  "backgroundImage": "C:\\Program Files\\PowerShell\\7\\assets\\Powershell_black.ico",
+  "backgroundImageOpacity": 0.5,
+  "backgroundImageStretchMode": "uniform",
+  "colorScheme": "Campbell Powershell",
+  "commandline": "%programfiles%\\PowerShell\\7\\pwsh.exe",
+  "cursorShape": "underscore",
+  "experimental.retroTerminalEffect": false,
+  "font": {
+    "size": 11,
+    "weight": "normal"
+  },
+  "guid": "{uuid}",
+  "hidden": false,
+  "icon": "C:\\Program Files\\PowerShell\\7\\assets\\Powershell_black.ico",
+  "intenseTextStyle": "all",
+  "name": "PowerShell 7.3.1 (x64)",
+  "source": "Windows.Terminal.Wsl",
+  "startingDirectory": "C:\\Users\\%USERNAME%\\",
+  "tabTitle": "PowerShell 7 (x64)"
+}
