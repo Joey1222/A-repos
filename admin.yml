@@ -12,7 +12,7 @@ i:
     - '{"text":"With this Very Administrative ","color":"red","bold":true, "italic":false}'
     - '{"text":"Hammer","color":"red","bold":true, "italic":false}'
     - '{"text":"IIIIIIIIIIIIIIIIIIIIIIIII","color":"gold","bold":true,"obfuscated":true, "italic":false}'
-    - '{"text":"Sharpness ∞","color":"gray", "italic":false}'
+    - '{"text":"Sharpness ∞","color":"gray"}'
     enchants:
       DAMAGE_ALL: 32767
     attribute-modifiers:
