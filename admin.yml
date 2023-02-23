@@ -1,0 +1,36 @@
+i:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: NETHERITE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"red","text":"Administrative Axe."}],"text":""}'
+    lore:
+    - '{"text":"IIIIIIIIIIIIIIIIIIIIIIII","color":"gold","bold":true,"obfuscated":true, "italic":false}'
+    - '{"text":"Administrate your opponents","color":"red","bold":true, "italic":false}'
+    - '{"text":"With this Very Administrative ","color":"red","bold":true, "italic":false}'
+    - '{"text":"Hammer","color":"red","bold":true, "italic":false}'
+    - '{"text":"IIIIIIIIIIIIIIIIIIIIIIIII","color":"gold","bold":true,"obfuscated":true, "italic":false}'
+    - '{"text":"Sharpness âˆž","color":"gray", "italic":false}'
+    enchants:
+      DAMAGE_ALL: 32767
+    attribute-modifiers:
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: generic.attack_damage
+        slot: HAND
+        uuid: d82f5beb-c639-40c6-8fc0-357af229f947
+        operation: 0
+      GENERIC_ATTACK_SPEED:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: generic.attack_speed
+        slot: HAND
+        uuid: f08a450b-27f6-4aa7-9ebf-6ed3a6c68a9a
+        operation: 0
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    Unbreakable: true
