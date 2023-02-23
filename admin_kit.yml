@@ -1,0 +1,11 @@
+i:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: SHULKER_BOX
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"red","text":"Administrative
+      Kit."}],"text":""}'
+    internal: H4sIAAAAAAAA/+2UPW8TQRCGx7FjbAcogAjRwGmbCMkKFUVMg0kMCd+SMRRRZNZ34/PKd7vW7lywsay0KA09RUr4GVDlD9BQ09JEFEhUsLZjO3EcQZRUUa66udt555nR7JsByMDFe4Fy6wVJglovuJ+CKeHBbCgkuppXKWdqUVBHXa6oZhqmVwhDkwGAqRgkioEi6CdcGyVIpBpqQVg2b5T2MhAn7schvSw8vB9w39jseBySSzzkPtoA0nC+IN0alxSipJ58rC97eS8H1w2JxkxBPFgPNv5ADGZKsqKR13klwFgaLuWJtKhEhE+UJ6oCdR81NUANuZC2jJeEZD5UkaSNHeg9Fu9ZAzUnoWQ3noFEqbSyZN8S326t/theuLv9/svttz9v/n5gxZ7yEGHWR2nbdOc5EXfrZa/XTgouDCF6x26MOpiYAMeC29kszMz9evhp67P8+nF788MA7spYLdNA9A6wXT+UrXfeLsc5T5hGwFsD3XKbYZM0Z7nVNquowGM50hFmmSAeCJflqjwwNnRVoDTLMY0eyzKyOTbIe7aeMNTtZB2dYnc75llnbXiAddKQeKy0nSJAEl63Bz9WDnnYqJLfhcnuY1KVamRcTjj44uzH7MDz9gQ2dFoq0o5qNJTsriMbb2dPjQOKxaHiK0E1h2rCOC9Rt5yx5o8kmhuK9mZ2pFz+zyEee4pzI7zBHXW+v9vaK6t5i3XsrYbpxe5mx2DXPXav+dVJ7sGbeOYdp8g71k7QO/JNPHOO/xC9MxRd5mGI+jRYRwoyi5EhFZ74Vj0SNLZVAH8B8pnS0yQJAAA=
+    blockMaterial: SHULKER_BOX
