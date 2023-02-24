@@ -1,14 +1,15 @@
 i:
   ==: org.bukkit.inventory.ItemStack
   v: 3218
-  type: WOODEN_AXE
+  type: NETHERITE_AXE
   meta:
     ==: ItemMeta
     meta-type: UNSPECIFIC
     display-name: '{"extra":[{"bold":true,"italic":false,"color":"dark_red","text":"World
       Edit Wand"}],"text":""}'
     lore:
-    - '{"extra":[{"bold":false,"italic":false,"color":"blue","text":"#pos1 "},{"italic":false,"color":"dark_gray","text":"#pos2"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"color":"blue","text":"#pos1 "}'
+    - '{"italic":false,"color":"dark_gray","text":"#pos2"}],"text":""}'
     enchants:
       LURE: 4341
     ItemFlags:
